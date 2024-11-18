@@ -1,0 +1,7 @@
+Fuerza Bruta:
+Resultado: 1
+Tiempo: 446.857 ns
+
+Programación Dinámica:
+Resultado: 1
+Tiempo: 0.0201 ns
